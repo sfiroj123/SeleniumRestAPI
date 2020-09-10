@@ -14,6 +14,7 @@ plugin={"pretty","junit:target/JUnitReports/report.xml",
 })
 //,tags="@SomeTest")
 //Just added new comment from eclipse
+//updated github
 public class TestRunner {
 
 }
